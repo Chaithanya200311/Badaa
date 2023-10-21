@@ -5,7 +5,7 @@
 # Project Name
 Long Description about project. This project do that. This project is awesome...
 ## Team members
-1. [Jamie]((https://github.com/jamieemathew))
+1. [Jamie](https://github.com/jamieemathew)
 2. [Sheril](https://github.com/sherilmariam)
 ## Link to product walkthrough
 [link to video](Link Here)
